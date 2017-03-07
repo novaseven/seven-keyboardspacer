@@ -1,0 +1,90 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "seven-keyboardspacer@^1.0.0",
+        "scope": null,
+        "escapedName": "seven-keyboardspacer",
+        "name": "seven-keyboardspacer",
+        "rawSpec": "^1.0.0",
+        "spec": ">=1.0.0 <0.4.0",
+        "type": "range"
+      },
+      "F:\\Test-Mobile"
+    ]
+  ],
+  "_from": "seven-keyboardspacer@>=1.0.0 <0.4.0",
+  "_id": "seven-keyboardspacer@1.0.0",
+  "_inCache": true,
+  "_location": "/seven-keyboardspacer",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/seven-keyboardspacer-1.0.0.tgz_1481417507794_0.7109871860593557"
+  },
+  "_npmUser": {
+    "name": "novaseven",
+    "email": "developer@mail.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "seven-keyboardspacer@^1.0.0",
+    "scope": null,
+    "escapedName": "seven-keyboardspacer",
+    "name": "seven-keyboardspacer",
+    "rawSpec": "^1.0.0",
+    "spec": ">=1.0.0 <0.4.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/seven-keyboardspacer/-/seven-keyboardspacer-1.0.0.tgz",
+  "_shasum": "9580297ebfd078202dc4c65303d29cda35de67f1",
+  "_shrinkwrap": null,
+  "_spec": "seven-keyboardspacer@^1.0.0",
+  "_where": "F:\\Test-Mobile",
+  "author": {
+    "name": "Nova Seven"
+  },
+  "bugs": {
+    "url": "https://github.com/novaseven/seven-keyboardspacer/issues"
+  },
+  "dependencies": {},
+  "description": "Plug and play react-Native keyboard spacer view.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "9580297ebfd078202dc4c65303d29cda35de67f1",
+    "tarball": "https://registry.npmjs.org/seven-keyboardspacer/-/seven-keyboardspacer-1.0.0.tgz"
+  },
+  "gitHead": "39b120158f6aeb19108e763611b42f81e8a273e7",
+  "homepage": "https://github.com/novaseven/seven-keyboardspacer#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "keyboard",
+    "spacer"
+  ],
+  "license": "MIT",
+  "main": "KeyboardSpacer.js",
+  "maintainers": [
+    {
+      "name": "novaseven",
+      "email": "developer@mail.com"
+    }
+  ],
+  "name": "seven-keyboardspacer",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novaseven/seven-keyboardspacer.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
